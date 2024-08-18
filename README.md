@@ -56,3 +56,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to customize the README further to include additional information or formatting as needed.
 Developer By MUSTAFA IP 
+https://www.github.com/T34mV18rs/V-DdoS.gitapt update && apt upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ pkg install figlet
+$ git clone https://www.github.com/T34mV18rs/V-DdoS.git
+$ cd V-DdoS
+$ chmod +x V-DdoS.py
+$ python2 V-DdoS.py
+To Run
+
+$ cd V-DdoS
+$ python2 V-DdoS.py
+
+
+run
+ 
+

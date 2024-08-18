@@ -1,18 +1,23 @@
 import telebot
 import subprocess
 import socket
-import sys
-
+import soo
+toke 7260286551:AAGFR_nPcIDOP8yXO_iTJ7NWq5bG3qiEvd0
 # Telegram API token
-TOKEN = "YOUR TOKEN HERE"
+TOKEN = "7260286551:AAGFR_nPcIDOP8yXO_iTJ7NWq5bG3qiEvd0  
 
-
+bot /start comment 
+DDOS aattck /bgmi /start attack 
+/mybots command /start attack Bgmi times cod ip 
+/bot command file  DDOS attack 
+ bot reply to my attack /start comment 
+ 
 # Admin chat ID
-ADMIN_CHAT_ID = YOUR_ID_HERE
-
+ADMIN_CHAT_ID = 5961738265
+9
 # Initialize bot
 bot = telebot.TeleBot(TOKEN)
-
+ID 5961738265
 # Function to check if input is a valid IP address
 def is_valid_ip(ip):
     try:
